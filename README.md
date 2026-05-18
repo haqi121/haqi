@@ -13,4 +13,4 @@ Project portfolio sederhana menggunakan HTML, CSS, dan JavaScript.
 3. Jalankan `index.html`
 
 ## Author
-Nama Kamu
+haqi
